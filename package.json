@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Brito",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.4.0",
+    "mocha": "^7.1.2",
+    "mochawesome": "^6.1.1"
+  }
+}

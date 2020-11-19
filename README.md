@@ -1,1 +1,1 @@
-# FlashscoreAutomation
+# CypressAutomation
